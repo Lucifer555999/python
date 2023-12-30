@@ -1,5 +1,0 @@
-r=int(input('enter radius of circle'))
-a=3.14*r**2
-c=2*3.14*r
-print(a,'is the area of circle.')
-print(c,'is the circumference of circle')
